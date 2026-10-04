@@ -22,8 +22,8 @@ Complete coursework, project artifacts, prompt engineering blueprints, evaluatio
 | **04** | **AI for Writing and Communicating** | `google-ai-for-writing-and-communicating` | 🏆 **Completed** | **100.00%** | *Passed 100%* ([Grades](certificates/google_ai_course4_grades_100pct.png)) |
 | **05** | **AI for Content Creation** | `google-ai-for-content-creation` | 🏆 **Completed** | **100.00%** | [B1JVAIY94GBX](https://www.coursera.org/account/accomplishments/verify/B1JVAIY94GBX) ([PDF](certificates/Google_AI_Course5_Content_Creation_B1JVAIY94GBX.pdf)) |
 | **06** | **AI for Data Analysis** | `google-ai-for-data-analysis` | 🏆 **Completed** | **100.00%** | *Passed 100%* ([Grades](certificates/google_ai_course6_grades_100pct.png)) |
-| **07** | **AI for App Building** | `google-ai-for-app-building` | 🟢 **In Progress** | - | *Pending* |
-| **08** | **AI for App Deployment** | `google-ai-for-app-deployment` | ⚪ Enrolled | - | *Pending* |
+| **07** | **AI for App Building** | `google-ai-for-app-building` | 🏆 **Completed** | **100.00%** | *Passed 100%* ([Grades](certificates/google_ai_course7_grades_100pct.png)) |
+| **08** | **AI for App Deployment** | `google-ai-for-app-deployment` | 🟢 **In Progress** | - | *Pending* |
 
 ---
 
