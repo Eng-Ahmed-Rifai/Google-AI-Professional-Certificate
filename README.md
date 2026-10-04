@@ -16,8 +16,8 @@ Complete coursework, project artifacts, prompt engineering blueprints, evaluatio
 
 | # | Course Title | Slug | Status | Grade | Certificate |
 |:---:|:---|:---|:---:|:---:|:---:|
-| **01** | **AI Fundamentals** | `google-ai-fundamentals` | 🟢 Active | *In Progress* | *Pending* |
-| **02** | **AI for Brainstorming and Planning** | `google-ai-for-brainstorming-and-planning` | ⚪ Enrolled | - | *Pending* |
+| **01** | **AI Fundamentals** | `google-ai-fundamentals` | 🏆 **Completed** | **100.00%** | [QI8IHDHHCN0Q](https://www.coursera.org/account/accomplishments/verify/QI8IHDHHCN0Q) ([PDF](certificates/Google_AI_Course1_Fundamentals_QI8IHDHHCN0Q.pdf)) |
+| **02** | **AI for Brainstorming and Planning** | `google-ai-for-brainstorming-and-planning` | 🟢 **In Progress** | - | *Pending* |
 | **03** | **AI for Research and Insights** | `google-ai-for-research-and-insights` | ⚪ Enrolled | - | *Pending* |
 | **04** | **AI for Writing and Communicating** | `google-ai-for-writing-and-communicating` | ⚪ Enrolled | - | *Pending* |
 | **05** | **AI for Content Creation** | `google-ai-for-content-creation` | ⚪ Enrolled | - | *Pending* |
