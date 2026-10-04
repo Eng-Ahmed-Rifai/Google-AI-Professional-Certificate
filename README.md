@@ -18,8 +18,8 @@ Complete coursework, project artifacts, prompt engineering blueprints, evaluatio
 |:---:|:---|:---|:---:|:---:|:---:|
 | **01** | **AI Fundamentals** | `google-ai-fundamentals` | 🏆 **Completed** | **100.00%** | [QI8IHDHHCN0Q](https://www.coursera.org/account/accomplishments/verify/QI8IHDHHCN0Q) ([PDF](certificates/Google_AI_Course1_Fundamentals_QI8IHDHHCN0Q.pdf)) |
 | **02** | **AI for Brainstorming and Planning** | `google-ai-for-brainstorming-and-planning` | 🏆 **Completed** | **100.00%** | [X5XL3NB2IO5Y](https://www.coursera.org/account/accomplishments/verify/X5XL3NB2IO5Y) ([PDF](certificates/Google_AI_Course2_Brainstorming_and_Planning_X5XL3NB2IO5Y.pdf)) |
-| **03** | **AI for Research and Insights** | `google-ai-for-research-and-insights` | 🟢 **In Progress** | - | *Pending* |
-| **04** | **AI for Writing and Communicating** | `google-ai-for-writing-and-communicating` | ⚪ Enrolled | - | *Pending* |
+| **03** | **AI for Research and Insights** | `google-ai-for-research-and-insights` | 🏆 **Completed** | **100.00%** | [2EZMZXI6W1IO](https://www.coursera.org/account/accomplishments/verify/2EZMZXI6W1IO) ([PDF](certificates/Google_AI_Course3_Research_and_Insights_2EZMZXI6W1IO.pdf)) |
+| **04** | **AI for Writing and Communicating** | `google-ai-for-writing-and-communicating` | 🟢 **In Progress** | - | *Pending* |
 | **05** | **AI for Content Creation** | `google-ai-for-content-creation` | ⚪ Enrolled | - | *Pending* |
 | **06** | **AI for Data Analysis** | `google-ai-for-data-analysis` | ⚪ Enrolled | - | *Pending* |
 | **07** | **AI for App Building** | `google-ai-for-app-building` | ⚪ Enrolled | - | *Pending* |
