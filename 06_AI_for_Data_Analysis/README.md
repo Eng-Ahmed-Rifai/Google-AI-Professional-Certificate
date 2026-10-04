@@ -4,8 +4,9 @@
 **Learner:** Ahmed Mohamed Abdullatif Rifai  
 **Completion Date:** October 5, 2026  
 **Final Grade:** 100.00%  
-**Course Challenge Assessment:** Passed 100.00% (6/6 Correct on 1st Attempt)  
-**Status:** Completed & Passed 100%  
+**Certificate Verification ID:** [21DW7SBNNBQU](https://www.coursera.org/account/accomplishments/verify/21DW7SBNNBQU)  
+**Credential Vector PDF:** [Google_AI_Course6_Data_Analysis_21DW7SBNNBQU.pdf](../certificates/Google_AI_Course6_Data_Analysis_21DW7SBNNBQU.pdf)  
+**High-Resolution Verification Screenshot:** [Google_AI_Course6_Data_Analysis_Certificate_21DW7SBNNBQU.png](../certificates/Google_AI_Course6_Data_Analysis_Certificate_21DW7SBNNBQU.png)  
 **Grades Dashboard Screenshot:** [google_ai_course6_grades_100pct.png](../certificates/google_ai_course6_grades_100pct.png)  
 
 ---
