@@ -7,23 +7,33 @@
 
 Complete coursework, project artifacts, prompt engineering blueprints, evaluation notebooks, and official certificates for the **Google AI Professional Certificate** program on Coursera.
 
-**Learner:** Eng. Ahmed Rifai  
-**Status:** In Active Execution (100.00% Grade Perfection Track)  
+- **Learner:** Eng. Ahmed Rifai  
+- **Status:** 🏆 **100% FULL SPECIALIZATION COMPLETED & OFFICIALLY CERTIFIED!**  
+- **Specialization Credential ID:** [CA5GKQUP5NON](https://www.coursera.org/account/accomplishments/specialization/CA5GKQUP5NON) ([PDF](certificates/Google_AI_Specialization_Certificate_CA5GKQUP5NON.pdf))  
 
 ---
 
-## 📚 Program Curriculum (8 Micro-Courses)
+## 🏆 Program Curriculum & Verified Credentials (8 Micro-Courses)
 
-| # | Course Title | Slug | Status | Grade | Certificate |
-|:---:|:---|:---|:---:|:---:|:---:|
+| # | Course Title | Slug | Status | Grade | Official Certificate & PDF |
+|:---:|:---|:---|:---:|:---:|:---|
 | **01** | **AI Fundamentals** | `google-ai-fundamentals` | 🏆 **Completed** | **100.00%** | [QI8IHDHHCN0Q](https://www.coursera.org/account/accomplishments/verify/QI8IHDHHCN0Q) ([PDF](certificates/Google_AI_Course1_Fundamentals_QI8IHDHHCN0Q.pdf)) |
 | **02** | **AI for Brainstorming and Planning** | `google-ai-for-brainstorming-and-planning` | 🏆 **Completed** | **100.00%** | [X5XL3NB2IO5Y](https://www.coursera.org/account/accomplishments/verify/X5XL3NB2IO5Y) ([PDF](certificates/Google_AI_Course2_Brainstorming_and_Planning_X5XL3NB2IO5Y.pdf)) |
 | **03** | **AI for Research and Insights** | `google-ai-for-research-and-insights` | 🏆 **Completed** | **100.00%** | [2EZMZXI6W1IO](https://www.coursera.org/account/accomplishments/verify/2EZMZXI6W1IO) ([PDF](certificates/Google_AI_Course3_Research_and_Insights_2EZMZXI6W1IO.pdf)) |
-| **04** | **AI for Writing and Communicating** | `google-ai-for-writing-and-communicating` | 🏆 **Completed** | **100.00%** | *Passed 100%* ([Grades](certificates/google_ai_course4_grades_100pct.png)) |
+| **04** | **AI for Writing and Communicating** | `google-ai-for-writing-and-communicating` | 🏆 **Completed** | **100.00%** | [FYLTSG008C9N](https://www.coursera.org/account/accomplishments/verify/FYLTSG008C9N) ([PDF](certificates/Google_AI_Course4_Writing_and_Communicating_FYLTSG008C9N.pdf)) |
 | **05** | **AI for Content Creation** | `google-ai-for-content-creation` | 🏆 **Completed** | **100.00%** | [B1JVAIY94GBX](https://www.coursera.org/account/accomplishments/verify/B1JVAIY94GBX) ([PDF](certificates/Google_AI_Course5_Content_Creation_B1JVAIY94GBX.pdf)) |
 | **06** | **AI for Data Analysis** | `google-ai-for-data-analysis` | 🏆 **Completed** | **100.00%** | [21DW7SBNNBQU](https://www.coursera.org/account/accomplishments/verify/21DW7SBNNBQU) ([PDF](certificates/Google_AI_Course6_Data_Analysis_21DW7SBNNBQU.pdf)) |
-| **07** | **AI for App Building** | `google-ai-for-app-building` | 🏆 **Completed** | **100.00%** | *Passed 100%* ([Grades](certificates/google_ai_course7_grades_100pct.png)) |
-| **08** | **AI for App Deployment** | `google-ai-for-app-deployment` | 🏆 **Completed** | **100.00%** | *Passed 100%* ([Grades](certificates/google_ai_course8_grades_100pct.png)) |
+| **07** | **AI for App Building** | `google-ai-for-app-building` | 🏆 **Completed** | **100.00%** | [J8A9ZF2MWGXE](https://www.coursera.org/account/accomplishments/verify/J8A9ZF2MWGXE) ([PDF](certificates/Google_AI_Course7_App_Building_J8A9ZF2MWGXE.pdf)) |
+| **08** | **AI for App Deployment** | `google-ai-for-app-deployment` | 🏆 **Completed** | **100.00%** | [ZAIGRJ3EEW8M](https://www.coursera.org/account/accomplishments/verify/ZAIGRJ3EEW8M) ([PDF](certificates/Google_AI_Course8_App_Deployment_ZAIGRJ3EEW8M.pdf)) |
+| 🎓 | **Google AI Specialization Credential** | `google-ai` | 🏆 **Certified** | **100.00%** | [CA5GKQUP5NON](https://www.coursera.org/account/accomplishments/specialization/CA5GKQUP5NON) ([PDF](certificates/Google_AI_Specialization_Certificate_CA5GKQUP5NON.pdf)) |
+
+---
+
+## 📜 Specialization Master Certificate
+
+<p align="center">
+  <img src="certificates/Google_AI_Specialization_Certificate_CA5GKQUP5NON.png" alt="Google AI Specialization Certificate" width="850">
+</p>
 
 ---
 
